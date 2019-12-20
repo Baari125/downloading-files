@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl-pl" lang="pl-pl">
+
+<head>
+      <base href="http://www.7szmw.pl/index.php/16-zamowienia-konkursy/postepowania-realizowane-na-podst-ust-pzp/441-dostawa-nici-chirurgicznych-postepowanie-nr-28-2018" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, nofollow" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Dostawa nici chirurgicznych (postępowanie nr 28/2018)</title>
+  <link href="/templates/taiko_ts/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/moo_maximenuhck.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/maximenuhck.php?monid=maximenuck" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/templatelayers/beez3-position1.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/assets/maximenuresponsiveck.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.ui.core.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/maximenuck.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/fancymenuck.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}jQuery(document).ready(function($){$('#maximenuck').DropdownMaxiMenu({fxtransition : 'linear',dureeIn : 0,dureeOut : 500,menuID : 'maximenuck',testoverflow : '0',orientation : 'horizontal',behavior : 'mouseover',opentype : 'open',fxdirection : 'normal',directionoffset1 : '30',directionoffset2 : '30',showactivesubitems : '0',ismobile : 0,menuposition : '0',effecttype : 'dropdown',fxduration : 500});});jQuery(document).ready(function($){
+            $('#maximenuck').FancyMaxiMenu({fancyTransition : 'linear',fancyDuree : 500});});
+  </script>
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext' rel='stylesheet' type='text/css'>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+        <!--asd-->
+        <!-- CSS -->
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/standard/css/mod_standard_home.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/standard/css/positions.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/standard/css/el_content.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/standard/css/editor.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/standard/css/mod_txtbox.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/el_footer.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/custom.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/mod_search.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/mod_hmenu.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/main.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/mod_login.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/mod_menu.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/mod_standard.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/el_menu.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/baner.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/el_header.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/css/positions.css" />
+<link rel="stylesheet" type="text/css" href="/templates/taiko_ts/themes/all/components_css/content.css" />
+
+<!-- JAVASCRIPT -->
+<script type="text/javascript" src="/templates/taiko_ts/themes/standard/javascript/hide.js"></script>
+<script type="text/javascript" src="/templates/taiko_ts/themes/standard/javascript/hide.js"></script>
+
+	</head>
+
+    <body>  
+    
+         <!-- main container :: container -->
+
+<div id="main_container">
+	    
+    <!-- header :: element -->
+    <div id="el_header_bot_lay">
+        <div id="el_header_cen_lay">
+            <div id="el_header_mid_lay">
+                <div id="el_header_top_lay">
+					
+                    <!-- header_img_1 :: position -->
+                    <div id="pos_header_img_1">
+                    	<div id="banner" class="banner_1">
+                                
+	       
+        
+        <!-- mod header - no title -->
+    	<div class="mod_h_nt"></div> 
+              
+		        
+        <!-- mod content -->
+        <div class="mod_c">
+<div style="position:relative;">
+	<img style="position:relative; position:absolute; top:0; left:0;" src="/images/baner/1.jpg"/>
+	<div style="position:relative; position:absolute; top:85px; left:22px;"><p style="color: #064a9a;"><strong>7 Szpital Marynarki Wojennej z Przychodnią</strong></p>
+<p style="color: #7e7e7e;"><strong>Samodzielny Publiczny Zakład Opieki Zdrowotnej</strong><br /><strong>imienia kontradmirała profesora Wiesława Łasińskiego<br />w Gdańsku</strong></p></div>
+</div>
+
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f"></div>
+        
+        
+                        </div>
+                    </div>
+                  
+                     <!-- header_img_2 :: position -->
+                    <div id="pos_header_img_2">
+                            
+	       
+        
+        <!-- mod header - no title -->
+    	<div class="mod_h_nt_search"></div> 
+              
+		        
+        <!-- mod content -->
+        <div class="mod_c_search"><form action="/index.php/component/search/" method="post">
+	<div class="search_search">
+		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox_search" type="text" size="33" value=" "  onblur="if (this.value=='') this.value=' ';" onfocus="if (this.value==' ') this.value='';" /><input type="image" value="" class="button_search" src="/templates/taiko_ts/themes/all/images/search_submit_btn.png" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="101" />
+	</div>
+</form>
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f_search"></div>
+        
+        
+                    </div>   
+                    
+                    <!-- logo :: empty position -->
+                    <div id="pos_logo">
+                         <a href="/"><img src="/templates/taiko_ts/themes/all/images/logo.png" /></a>
+                    </div> 
+                    
+                </div>
+            </div>
+        </div>		    
+    </div>
+   
+    <!-- content :: element :: front page-->
+    <div id="el_content_bot_lay">
+        <div id="el_content_cen_lay">
+            <div id="el_content_mid_lay">
+                <div id="el_content_top_lay">
+                    
+                    <!-- left :: position --><!-- services_left :: position -->
+                    <div id="pos_left">
+                    	    	<div class="mod_wrapper">
+            <div class="mod_container">
+            
+                                
+                <!-- mod header -->
+                                    
+                    <div class="mod_h_menu">Home</div>
+                    
+                                        
+                                
+                <!-- mod content -->
+                <div class="mod_c_menu">
+<ul class="menu_menu">
+<li class="item-135"><a href="/index.php/phasellus-commodo-2" >O nas</a></li><li class="item-136"><a href="/index.php/historia" >Historia</a></li><li class="item-137"><a href="/index.php/patron" >Patron</a></li><li class="item-138"><a href="/index.php/komenda" >Komenda</a></li><li class="item-139"><a href="/index.php/struktura-szpitala" >Struktura szpitala</a></li><li class="item-140"><a href="/index.php/ankieta-satysfakcji-partnera" >Ankieta satysfakcji pacjenta</a></li><li class="item-141"><a href="/index.php/polityka-jakosci" >Polityka jakości</a></li><li class="item-146"><a href="/index.php/ogloszenia" >Ogłoszenia</a></li><li class="item-142"><a href="/index.php/plan-sytuacyjny-szpitala" >Plan sytuacyjny szpitala</a></li><li class="item-195"><a href="/index.php/kolejka-oczekujacych" >Kolejka oczekujących</a></li><li class="item-216"><a href="http://153.19.191.146/eRejestracja" >E-Rejestracja</a></li><li class="item-220"><a href="/index.php/misja-i-wizja" >Misja i wizja</a></li><li class="item-221"><a href="http://www.7szmw.pl/images/cennik/Cennik-od-10.2018.xls" target="_blank" >Cennik</a></li><li class="item-222"><a href="/index.php/modernizacja-szpitala" >Modernizacja Szpitala</a></li><li class="item-240"><a href="/index.php/ochrona-danych-osobowych" >ochrona danych osobowych </a></li><li class="item-247"><a href="/index.php/gallery" >Galeria</a></li></ul>
+</div>
+                
+                <!-- mod footer -->
+                <div class="mod_f_menu"></div>
+                
+                    
+            </div>
+        </div>
+
+                            
+	            
+    	<!-- mod header -->
+        			
+            <div class="mod_h">Najważniejsze telefony</div>
+			
+						
+		        
+        <!-- mod content -->
+        <div class="mod_c">
+
+<div class="custom"  >
+	<p style="text-align: center;"><span style="color: #000000;"><strong>Sekretariat komendanta&nbsp;&nbsp; </strong></span><span style="text-decoration: underline;"><strong><span style="color: #333399; text-decoration: underline;">601 175 476<br />261 216 301</span></strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #000000;">Fax</span>&nbsp;&nbsp;&nbsp; </strong><span style="text-decoration: underline;"><span style="color: #333399; text-decoration: underline;"><strong>58 552 64 57</strong></span></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>Informacja o numerach wewnętrznych Szpitala&nbsp;&nbsp;&nbsp; </strong></span><span style="text-decoration: underline;"><span style="color: #333399; text-decoration: underline;"><strong>58 552 63 26</strong></span></span></p>
+<p style="text-align: center;"><strong><span style="color: #000000;">poniedziałek - piątek: 7.00 - 14.30</span></strong></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>Rejestracja /Przychodnia/&nbsp; &nbsp; </strong></span><span style="text-decoration: underline;"><span style="color: #333399; text-decoration: underline;"><strong>58 552 62 07</strong></span></span></p>
+<p style="text-align: center;"><strong><span style="color: #000000;">poniedziałek: 7.30 - 19.00</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #000000;">wtorek - piątek: 7.30 - 18.00</span></strong></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>Rejestracja /RTG, USG/&nbsp;&nbsp;&nbsp; </strong></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><strong><span style="text-decoration: underline;">58 552 63 60</span></strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #333399; text-decoration: underline;"><strong>58 552 62 60</strong></span></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>Izba Przyjęć&nbsp;&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="font-family: verdana, geneva;"><strong><span style="text-decoration: underline;"><span style="font-size: 8.5pt; color: #333399;">58 552 63 18</span></span></strong><span style="font-size: 8.5pt; color: black;"></span></span></p>
+<p style="text-align: center;"><span style="font-family: verdana, geneva;"><strong><span style="text-decoration: underline;"><span style="font-size: 8.5pt; color: #333399;">58 552 65 19</span></span></strong><strong>&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="color: #333399; font-family: verdana, geneva;"><strong>&nbsp;<span style="text-decoration: underline;">785 773 020</span></strong></span></p>
+<p style="text-align: center;"><strong><span style="color: #000000;">TK, MRI /NEWMEDICAL/</span> &nbsp; &nbsp; </strong><span style="text-decoration: underline;"><strong><span style="color: #333399; text-decoration: underline;">798 729 893<br /><br /></span></strong></span></p></div>
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f"></div>
+        
+        
+                    </div>  
+                    
+                     <!-- home_center :: position -->
+                    <div id="pos_component">
+                        
+<div class="item-page-space"></div>    
+
+<div class="item-page">
+	<h2>
+Dostawa nici chirurgicznych (postępowanie nr 28/2018)	</h2>
+
+
+
+
+
+
+	
+<div class="mceTmpl">
+<p class="order3"><span style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Numer sprawy: 28/2018</span></p>
+<p><span style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Ogłoszenie o przetargu nieograniczonym o wartości poniżej 144 000 Euro</span></p>
+<p><span style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">KOMENDANT 7 Szpitala Marynarki Wojennej z Przychodnią SP ZOZ im. kontradm. prof. W. Łasińskiego w Gdańsku kmdr dr n. med. Dariusz Juszczak</span></p>
+<ul>
+<li><span class="order6" style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Data ogłoszenia:&nbsp;22.10.2018</span></li>
+<li><span class="order6" style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Data otwarcia:&nbsp;31.10.2018</span></li>
+<li><strong><span style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Data zakończenia: ......2018</span></strong></li>
+</ul>
+<p class="order5"><span style="font-size: 8pt; font-family: verdana, geneva; color: #000000;">Pliki do pobrania:</span></p>
+<ul>
+<li><a href="/images/og_28_2018i.doc">ogłoszenie o zam&oacute;wieniu 28/2018</a></li>
+<li><a href="/images/SIWZ_28_2018i_z_klauzulą_RODO.doc">SIWZ 28/2018</a></li>
+<li><a href="/images/załącznik_nr_3_do_SIWZ_28_2018.xls">załącznik nr 3 do SIWZ 28/2018</a></li>
+<li><a href="/images/odp_1_-_29.10.2018_-_28_2018.doc">odpowiedzi na pytania z dnia 29.10.2018 r.</a></li>
+<li><a href="/images/zbiorcze_zestawienie_ofert_28_2018.xls">zbiorcze zestawienie ofert 28/2018</a></li>
+<li><a href="/images/info_28_2018i.xls">informacja o wyborze najkorzystniejszej oferty 28/2018</a></li>
+</ul>
+</div>
+	</div>
+ 
+                         
+                    </div>
+                    
+                    <!-- right :: position -->
+                    <div id="pos_right">
+                            
+	            
+    	<!-- mod header -->
+        			
+            <div class="mod_h">Mammografia dla wszystkich</div>
+			
+						
+		        
+        <!-- mod content -->
+        <div class="mod_c">
+
+<div class="custom"  >
+	<p style="text-align: justify;"><img style="float: left; margin: 0px 16px 0px 0px;" src="/images/img_1_content_module_.png" alt="" />Zakład Diagnostyki Obrazowej wykonuje badanie mammografii w ramach Programu Profilaktyki Raka Piersi /etap podstawowy i pogłębiony/ oraz na podstawie skierowania od lekarza specjalisty. Krótkie terminy oczekiwania na badanie oraz wynik w ciągu 2 dni.</p></div>
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f"></div>
+        
+            
+	       
+        
+        <!-- mod header - no title -->
+    	<div class="mod_h_nt"></div> 
+              
+		        
+        <!-- mod content -->
+        <div class="mod_c">
+
+<div class="custom"  >
+	<p><a href="http://szpitalbezbolu.pl/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/modules/szpital_bez_bolu.png" alt="szpital bez bolu" /></a></p></div>
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f"></div>
+        
+                                 
+              		</div>
+                                       
+                    <!-- content_top :: position -->
+                    <div id="pos_content_top">
+                            
+	       
+        
+        <!-- mod header - no title -->
+    	<div class="mod_h_nt"></div> 
+              
+		        
+        <!-- mod content -->
+        <div class="mod_c">
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_maximenuck/themes/css3megamenu/css/ie7.css" rel="stylesheet" type="text/css" />
+		<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
+	    <div class="maximenuckh" id="maximenuck" style="z-index:10;">
+		        <div class="maxiroundedleft"></div>
+        <div class="maxiroundedcenter">
+            <ul class="nav menu  maximenuck" style="">
+								<li data-level="1" class="maximenuck item164 first level1 " style="z-index : 12000;"><a class="maximenuck " href="/index.php/przychodnia-proin-id"><div class="maxiimg"><img src="/images/menu/o_nas.png" alt="Przychodnia" align="left"/></div><div class="titreck">Przychodnia</div></a>
+		</li><li data-level="1" class="maximenuck item102 level1 " style="z-index : 11999;"><a class="maximenuck " href="/index.php/o-nas"><div class="maxiimg"><img src="/images/menu/o_nas.png" alt="Szpital" align="left"/></div><div class="titreck">Szpital</div></a>
+		</li><li data-level="1" class="maximenuck item114 level1 " style="z-index : 11998;"><a class="maximenuck " href="/index.php/aktualnosci"><div class="maxiimg"><img src="/images/menu/aktualnosci.png" alt="Pacjent" align="left"/></div><div class="titreck">Pacjent</div></a>
+		</li><li data-level="1" class="maximenuck item116 level1 " style="z-index : 11997;"><a class="maximenuck " href="/index.php/specjalizacje"><div class="maxiimg"><img src="/images/menu/specjalizacje.png" alt="Profilaktyka" align="left"/></div><div class="titreck">Profilaktyka</div></a>
+		</li><li data-level="1" class="maximenuck item117 level1 " style="z-index : 11996;"><a class="maximenuck " href="/index.php/konkursy-ogloszenia-2"><div class="maxiimg"><img src="/images/menu/uslugi.png" alt="Zamówienia" align="left"/></div><div class="titreck">Zamówienia</div></a>
+		</li><li data-level="1" class="maximenuck item239 level1 " style="z-index : 11995;"><a class="maximenuck " href="/index.php/uslugi-komercyjne-2"><div class="maxiimg"><img src="/images/menu/uslugi.png" alt="Usługi komercyjne" align="left"/></div><div class="titreck">Usługi komercyjne</div></a>
+		</li><li data-level="1" class="maximenuck item214 level1 " style="z-index : 11994;"><a class="maximenuck " href="http://153.19.191.146/eRejestracja" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;" ><div class="maxiimg"><img src="/images/menu/uslugi.png" alt="E-Rejestracja" align="left"/></div><div class="titreck">E-Rejestracja</div></a>
+		</li><li data-level="1" class="maximenuck item106 level1 " style="z-index : 11993;"><a class="maximenuck " href="/index.php/kontakt"><div class="maxiimg"><img src="/images/menu/kontakt.png" alt="Kontakt" align="left"/></div><div class="titreck">Kontakt</div></a>
+		</li><li data-level="1" class="maximenuck item245 level1 " style="z-index : 11992;"><a class="maximenuck " href="https://diag.pl/pacjent"><div class="maxiimg"><img src="/images/menu/diag_logo.png" alt="Diagnostyka" align="left"/></div><div class="titreck">Diagnostyka</div></a>
+		</li><li data-level="1" class="maximenuck item248 level1 " style="z-index : 11991;"><a class="maximenuck " href="http://www.starmedica.pl/"><div class="maxiimg"><img src="/images/menu/newmedical_logo.png" alt="TK/MRI" align="left"/></div><div class="titreck">TK/MRI</div></a>
+		</li><li data-level="1" class="maximenuck item246 last level1 " style="z-index : 11990;"><a class="maximenuck " href="/index.php/dilo" title="DILO"><div class="maxiimg"><img src="/images/menu/dilo.png" alt="DILO" align="left"/></div><div class="titreck">DILO</div></a></li>            </ul>
+        </div>
+        <div class="maxiroundedright"></div>
+        <div style="clear:both;"></div>
+    </div>
+    <!-- fin maximenuCK -->
+</div>
+        
+        <!-- mod footer -->
+    	<div class="mod_f"></div>
+        
+        
+                    </div>
+                </div>
+            </div>
+        </div>		    
+    </div>
+    
+    
+    
+	<!-- footer :: element -->
+   <div id="el_footer_bot_lay">
+        <div id="el_footer_cen_lay">
+            <div id="el_footer_mid_lay">
+                <div id="el_footer_top_lay">
+              
+                    <!-- footer1 :: position -->
+                    <div id="pos_footer_1">
+                         
+                     </div>
+                     
+                    <!-- footer2 :: position -->
+                    <div id="pos_footer_2">
+                        <a href="http://taiko.pl/" target="_blank"><img style="margin:9px 0 0 0;" src="/templates/taiko_ts/themes/all/images/taiko_logo.png" /></a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>		    
+    </div>
+
+</div><!-- cookies info -->
+	<div id="cookies_info_cont">
+		<div id="cookies_info">
+        	
+			<p><strong>Ta strona używa Cookies.</strong> Dowiedz się więcej o naszej <a href="/index.php/polityka-dotyczaca-ciasteczek" target="_blank" >Polityce dotyczącej Ciasteczek</a>.
+            <br/>Korzystając ze strony wyrażasz zgodę na używanie cookie, zgodnie z aktualnymi ustawieniami przeglądarki.</p>
+			
+			<form id="cookies_closeform" action="/index.php/16-zamowienia-konkursy/postepowania-realizowane-na-podst-ust-pzp/441-dostawa-nici-chirurgicznych-postepowanie-nr-28-2018" method="post">
+            	<input type="hidden" name="cookies_info" value="1" />
+            	<input type="submit" value="ZAMKNIJ [x]" />
+			</form>
+		</div>
+	</div>    
+ 
+          
+    </body>
+</html>
